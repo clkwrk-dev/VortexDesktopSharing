@@ -1,1 +1,1 @@
-# An RMI based Desktop Sharing Application
+# An RMI Based Desktop Sharing Application
